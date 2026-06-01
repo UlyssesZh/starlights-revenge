@@ -43,9 +43,11 @@ AI-generated images (Google Gemini), and the following user-uploaded contents:
 - [MLP Vector - Firelight](https://www.deviantart.com/jhayarr23/art/MLP-Vector-Firelight-743664240) by jhayarr23
 - [Friendless Starlight on a Hill](https://www.deviantart.com/itv-canterlot/art/Friendless-Starlight-on-a-Hill-608917398) by itv-canterlot
 - [Starlight Glimmer](https://www.deviantart.com/xboomdiersx/art/Starlight-Glimmer-514005641) by XBoomdiersX
-- [Young Granny Smith](https://www.nicepng.com/ourpic/u2w7i1y3a9t4e6e6_young-granny-smith-by-joeyh3-d4o03d5-young-granny/) by Joeyh3-d4o03d5
+- [Young Granny Smith](https://www.nicepng.com/ourpic/u2w7i1y3a9t4e6e6_young-granny-smith-by-joeyh3-d4o03d5-young-granny) by Joeyh3-d4o03d5
+- [Mlp Fim twilight sparkle (...) vector](https://www.deviantart.com/luckreza8/art/Mlp-Fim-twilight-sparkle-vector-571561995) by luckreza8
+- [Ha!](https://www.deviantart.com/itv-canterlot/art/Ha-575343009) by itv-canterlot
 
 ## License
 
-All texts are licensed under CC BY 4.0.
+All texts are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
 I cannot license the images because they contain copyrighted materials from Hasbro.
